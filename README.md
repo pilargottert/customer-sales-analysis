@@ -2,7 +2,7 @@
 
 A SQL and Tableau analysis of 3.5 years of quote-to-order data for a fictional B2B equipment supplier. I cleaned the data, built an analysis base in SQLite, answered 19 business questions, and turned the main findings into two Tableau Public dashboards.
 
-**[View the interactive dashboards on Tableau Public](TABLEAU_LINK)** · **[Read the case study](https://pilargottert.github.io/customer-sales-analysis.html)**
+**[View the interactive dashboards on Tableau Public](https://public.tableau.com/app/profile/pilar.gottert/viz/HarborLineSalesDashboard/Dashboard1-SalesOverview)** · **[Read the case study](https://pilargottert.github.io/customer-sales-analysis.html)**
 
 ![Harbor Line Sales Overview dashboard](dashboard/dashboard-1-sales-overview.png)
 
