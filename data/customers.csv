@@ -1,0 +1,125 @@
+customer_id,customer_name,industry,region,created_date
+1,Plásticos Molle S.R.L.,Manufacturing,Buenos Aires (AMBA),2023-01-27
+2,Petróleo Tres Cerros Coop. Ltda.,Oil & Gas,patagonia,2025-09-02
+3,Saneamiento Salinas S.R.L.,Water Utilities,CENTRO,2019-02-01
+4,Minera Los Tilos S.A.,Mining,Cuyo,2022-05-03
+5,Servicios Hídricos Quebracho Coop. Ltda.,Water Utilities,Cuyo,2019-10-02
+6,Minerales Cardón S.R.L.,Mining,Patagonia,2024-09-08
+7,Plásticos Los Álamos S.R.L.,Manufacturing,Centro ,2020-11-20
+8,Estructuras Viento Sur Coop. Ltda.,Construction,Cuyo,2024-10-30
+9,Cooperativa de Agua Caldén Coop. Ltda.,Water Utilities,Patagonia,2026-03-20
+10,Servicios Petroleros Coirón Coop. Ltda.,Oil & Gas,AMBA,2019-05-17
+11,Bodegas Algarrobo S.A.,Food & Beverage,Centro,2022-06-12
+12,Gas Los Álamos S.A.,Oil & Gas,Norte,2024-09-26
+13,Energía Tres Cerros S.A.,,AMBA,2022-11-13
+14,Estructuras Las Tunas S.R.L.,Construction,AMBA,2021-07-31
+15,Alimentos Viento Sur S.R.L.,,Norte,2024-05-01
+16,Gas Arroyo Seco S.A.,Oil & Gas,Patagonia,2021-04-30
+17,Servicios Petroleros Viento Sur S.R.L.,Oil & Gas,Patagonia,2022-07-08
+18,Semillas Viento Sur Coop. Ltda.,Agriculture,AMBA,2022-04-22
+19,Hídrica Laguna Verde Coop. Ltda.,Water Utilities,amba,2024-10-17
+20,Bodegas Coirón S.R.L.,Food & Beverage,AMBA,2023-08-03
+21,Minerales Los Tilos S.R.L.,Mining,Norte,2024-05-03
+22,Cooperativa de Agua Nahuel S.R.L.,Water Utilities,AMBA,2020-04-04
+23,Metalúrgica Lihué S.A.,Manufacturing,Centro,2022-03-10
+24,Alimentos Pehuén S.R.L.,Food & Beverage,Centro,2022-03-23
+25,Alimentos Espinillo S.R.L.,Food & Beverage,amba,2020-08-20
+26,Fundición Las Tunas Coop. Ltda.,Manufacturing,Centro,2021-04-18
+27,Metalúrgica Tandil S.A.,Manufacturing,AMBA,2025-11-10
+28,Obras Pehuén Coop. Ltda.,Construction,Centro,2025-11-28
+29,Petróleo Coirón S.A.,Oil & Gas,Patagonia ,2023-09-03
+30,Minerales Ombú S.A.,Mining,Norte,2019-09-05
+31,Alimentos Arroyo Seco S.R.L.,Food & Beverage,AMBA,2023-08-21
+32,Frigorífico Espinillo S.A.,Food & Beverage,Centro,2021-12-30
+33,Minerales Espinillo S.A.,Mining,Patagonia,2023-01-16
+34,Riego Pehuén S.A.,Agriculture,CENTRO,2025-11-30
+35,Agro Coirón S.A.,Agriculture,Centro,2019-04-13
+36,Constructora Arroyo Seco S.R.L.,Construction,Buenos Aires (AMBA),2019-05-27
+37,Plásticos Las Tunas S.A.,Manufacturing,Centro,2019-09-11
+38,Metales Espinillo S.A.,Mining,AMBA,2021-08-01
+39,Riego Salinas S.A.,Agriculture,Cuyo,2021-02-01
+40,Semillas Algarrobo Coop. Ltda.,Agriculture,cuyo,2020-03-23
+41,Industrias Espinillo S.A.,Manufacturing,Centro,2019-02-27
+42,Gas Nahuel S.A.,Oil & Gas,Patagonia,2025-12-21
+43,Semillas Piedra Negra S.R.L.,Agriculture,Norte,2023-01-11
+44,Frigorífico Pehuén S.R.L.,Food & Beverage,centro,2021-02-08
+45,Minera Tandil S.A.,,AMBA,2024-08-05
+46,Industrias Jarilla S.R.L.,Manufacturing,Centro ,2023-08-07
+47,Energía Los Álamos S.A.,Oil & Gas,Centro,2019-06-08
+48,Lácteos Ñandú S.R.L.,Food & Beverage,AMBA,2024-06-01
+49,Semillas Los Álamos S.A.,Agriculture,Centro,2020-04-26
+50,Petróleo Algarrobo Coop. Ltda.,Oil & Gas,Patagonia,2025-11-25
+51,Metales Ombú S.R.L.,Mining,Cuyo,2021-09-17
+52,Servicios Petroleros Piedra Negra Coop. Ltda.,Oil & Gas,Patagonia,2020-02-12
+53,Metalúrgica Coirón Coop. Ltda.,Manufacturing,Buenos Aires (AMBA),2025-04-26
+54,Semillas Ombú S.R.L.,Agriculture,Centro,2021-02-22
+55,Metalúrgica El Ceibo S.A.,Manufacturing,AMBA,2022-11-29
+56,Riego Piedra Negra Coop. Ltda.,Agriculture,CENTRO,2019-05-29
+57,Alimentos Ñandú S.R.L.,Food & Beverage,Norte,2023-05-22
+58,Saneamiento Ombú S.R.L.,,patagonia,2022-06-27
+59,Hídrica Colorado S.A.,Water Utilities,Cuyo,2019-06-25
+60,Bodegas Pehuén S.A.,Food & Beverage,AMBA,2024-11-20
+61,Riego Quebracho S.A.,Agriculture,AMBA,2025-09-30
+62,Agro Ombú S.A.,Agriculture,Centro,2021-06-16
+63,Cooperativa de Agua Arroyo Seco Coop. Ltda.,,Patagonia,2025-07-11
+64,Hídrica Nahuel S.A.,Water Utilities,AMBA,2019-08-21
+65,Alimentos Caldén S.A.,Food & Beverage,Cuyo,2024-01-08
+66,Agropecuaria Colorado S.A.,,Cuyo,2023-09-10
+67,Plásticos Salinas Coop. Ltda.,Manufacturing,AMBA,2020-09-07
+68,Bodegas Espinillo S.R.L.,Food & Beverage,Cuyo,2020-01-07
+69,Riego Las Tunas S.A.,Agriculture,NOA,2019-10-07
+70,Metalúrgica Caldén S.R.L.,Manufacturing,AMBA,2021-04-06
+71,Industrias Las Tunas S.A.,Manufacturing,Centro,2020-07-07
+72,Industrias Colorado Coop. Ltda.,Manufacturing,Centro,2021-03-12
+73,Agropecuaria Coirón S.A.,Agriculture,Norte,2019-12-15
+74,Bodegas Las Tunas S.A.,Food & Beverage,Centro,2025-04-14
+75,Gas Salinas S.A.,Oil & Gas,Patagonia,2024-09-05
+76,Lácteos Tala Coop. Ltda.,Food & Beverage,Patagonia,2024-04-23
+77,Riego Tres Cerros S.R.L.,Agriculture,Centro,2021-10-21
+78,Constructora Piedra Negra S.A.,Construction,Patagonia,2023-10-05
+79,Energía Tandil S.A.,Oil & Gas,Centro,2021-10-18
+80,Estructuras El Ceibo S.A.,Construction,Centro,2022-05-16
+81,Minera Tala S.A.,Mining,Norte,2019-05-10
+82,Lácteos Cardón S.A.,Food & Beverage,Norte,2019-06-09
+83,Riego Cardón S.A.,Agriculture,Norte,2021-05-14
+84,Industrias Ñandú S.A.,Manufacturing,AMBA,2020-01-05
+85,Recursos Mineros Las Tunas S.A.,Mining,Centro,2021-04-02
+86,Minerales Laguna Verde S.A.,Mining,AMBA,2020-02-04
+87,Metales Arroyo Seco S.R.L.,Mining,AMBA,2022-05-31
+88,Industrias Maitén S.A.,Manufacturing,AMBA,2019-03-09
+89,Metales Pehuén S.A.,Mining,Cuyo,2024-03-24
+90,Metalúrgica Colorado S.A.,Manufacturing,AMBA,2019-09-11
+91,Plásticos Laguna Verde S.A.,Manufacturing,Centro,2025-09-27
+92,Bodegas Salinas S.A.,Food & Beverage,Buenos Aires (AMBA),2021-06-10
+93,Energía Nahuel S.A.,Oil & Gas,Patagonia,2021-10-27
+94,Recursos Mineros Tres Cerros S.A.,Mining,AMBA ,2020-12-20
+95,Recursos Mineros Jarilla S.R.L.,Mining,Patagonia,2020-08-23
+96,Fundición Los Álamos S.A.,Manufacturing,Buenos Aires (AMBA),2025-04-04
+97,Servicios Hídricos Maitén S.R.L.,Water Utilities,AMBA,2021-04-29
+98,Semillas Maitén S.R.L.,Agriculture,Centro,2025-03-03
+99,Minerales Caldén S.A.,Mining,Patagonia,2022-11-17
+100,Minerales Viento Sur Coop. Ltda.,Mining,Cuyo,2023-04-09
+101,Hídrica Las Tunas S.A.,Water Utilities,Centro,2019-08-04
+102,Frigorífico Lihué Coop. Ltda.,Food & Beverage,amba,2023-11-09
+103,Minera Nahuel S.R.L.,Mining,Patagonia,2022-02-25
+104,Semillas Espinillo S.R.L.,Agriculture,centro,2022-06-28
+105,Constructora Viento Sur S.A.,Construction,AMBA ,2020-06-06
+106,Metalúrgica Maitén Coop. Ltda.,,AMBA,2024-12-09
+107,Industrias Los Tilos S.R.L.,Manufacturing,CENTRO,2019-08-28
+108,Agro El Ceibo S.A.,Agriculture,Centro,2026-02-05
+109,Lácteos Cerro Chato S.A.,Food & Beverage,cuyo,2020-04-28
+110,Petróleo El Ceibo S.R.L.,Oil & Gas,Centro,2020-03-23
+111,Desarrollos Molle Coop. Ltda.,Construction,Patagonia,2020-01-27
+112,Desarrollos Ombú S.A.,Construction,Patagonia,2023-03-13
+113,Obras Ombú S.A.,Construction,Buenos Aires (AMBA),2021-10-28
+114,Agro Tres Cerros Coop. Ltda.,Agriculture,Centro,2019-03-19
+115,Plásticos Calchaquí S.A.,Manufacturing,Centro,2025-06-27
+116,Bodegas Quebracho Coop. Ltda.,,AMBA,2020-09-30
+117,Petróleo Las Tunas S.A.,Oil & Gas,Patagonia,2021-01-05
+118,Minerales Molle S.R.L.,Mining,Norte,2021-12-23
+119,Minerales Jarilla S.A.,Mining,AMBA,2025-01-13
+120,Minerales Cerro Chato S.A.,Mining,Patagonia,2023-04-15
+121,Alimentos Pehuén SRL,Food & Beverage,Centro,2024-06-04
+122,Industrias Las Tunas SA,Manufacturing,CENTRO,2024-06-05
+123,Agro Coirón SA,Agriculture,Centro,2024-11-30
+124,SERVICIOS HÍDRICOS QUEBRACHO COOP. LTDA.,Water Utilities,cuyo,2024-09-14
