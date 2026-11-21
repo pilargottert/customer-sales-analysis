@@ -1,0 +1,1 @@
+select min(quote_date), max(quote_date) from quotes

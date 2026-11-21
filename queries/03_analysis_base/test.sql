@@ -1,0 +1,1 @@
+select * from sales_lines LIMIT 10

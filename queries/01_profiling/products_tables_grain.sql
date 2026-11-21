@@ -1,0 +1,1 @@
+select count(*), count(distinct product_id) from products

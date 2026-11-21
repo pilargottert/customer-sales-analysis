@@ -1,0 +1,1 @@
+SELECT COUNT(*), COUNT(DISTINCT order_id) FROM orders;

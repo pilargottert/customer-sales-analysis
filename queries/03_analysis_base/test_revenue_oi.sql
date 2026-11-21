@@ -1,0 +1,1 @@
+SELECT sum(oi.quantity * oi.unit_price) from order_items_clean oi

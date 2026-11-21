@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT quote_id) FROM quote_items WHERE product_id IN (22, 23, 24);

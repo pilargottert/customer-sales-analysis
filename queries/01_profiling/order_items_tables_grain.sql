@@ -1,0 +1,2 @@
+SELECT COUNT(*)
+FROM (SELECT DISTINCT * FROM order_items) AS t;

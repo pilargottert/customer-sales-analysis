@@ -1,0 +1,1 @@
+SELECT MIN(quote_date) FROM quotes WHERE rep_id = 4;

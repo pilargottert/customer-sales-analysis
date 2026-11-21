@@ -1,0 +1,1 @@
+select count (*), count(distinct customer_id) from customers

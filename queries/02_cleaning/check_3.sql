@@ -1,0 +1,1 @@
+SELECT DISTINCT customer_id FROM orders_clean WHERE customer_id IN (121, 122, 123, 124);
